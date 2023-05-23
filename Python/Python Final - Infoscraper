@@ -6,6 +6,12 @@ This progam takes the name of a celebrity and uses AI to get the Twitter, Instag
 use Selenium Webviewer to scrape the amount of followers and their business email and phone number.
 
 *I've commented only the first function 'instagramperplexity' because all of the functions are similar.
+
+Describe something that surprised you as you worked on your project. - I was surprised that something like this was not that hard to do using AI, but without AI it would be a lot harder as there is no one place all of this information is already stored.
+Describe any challenges you had this week. - I had a lot of trouble getting Selenium Webdriver to do exactly what I wanted.
+Did anyone help you this week? Who and how? - Surya and Isaac both helped me by giving me new ideas and ideas to solve existing problems.
+Choose an adjective that describes how you are feeling about your project. Explain why you chose this word. - Creative - I think this is a cretive idea and I have done it differently than something else that serves the same purpose.
+If you had more time to work on this project, what would you add?  - I would add all of the outputs into a database so new lookups would take less time and also because there is no one database that holds all of this information so it would be helpful to certain people.
 """
 
 #Imports
